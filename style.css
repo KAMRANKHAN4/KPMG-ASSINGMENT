@@ -132,61 +132,146 @@ footer .col3 ul li{
 
   @media (min-width:360px) and (max-width:470px) {
        .logo{
-        width: 120px;
+        /* width: 80px; */
         /* background-color: brown; */
         /* width: 200px ; */
-        margin-left: 30px;
-/* height:300px ;       */
+        /* margin-left: 30px; */
+
+ }
+ 
+ .ul{
+    /* width: 100%; */
  }
      
 .nav_links{
-    /* list-style: none; */
-    /* display: flex; */
-    /* gap: 30px; */
-    font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    font-variant: small-caps;
-    font-size: 30px;
-    /* background-color: rgb(87, 32, 32); */
-    /* color: white; */
-    margin-left: 30px;
-    margin-top: 20px;
+        
+    /* font-style: italic; */
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    /* font-weight: bolder; */
+    /* font-variant: small-caps; */
+    /* margin-left: 30px; */
+    /* margin-top: 20px; */
+    /* width: 80px; */
+    /* margin: 5px; */
+    /* color: aqua; */
+}
+.main-content{
+    width: 100px;
+}
+.women{
+    width: 100px;
+    margin-left: -220px;
+}
+.search{
+    width: 20px;
+    height: 20px;
+}
+.people{
+    width: 20px;
+    height: 20px;
+}
+.world{
+    width: 20px;
+    height: 20px;
 }
 
-.icons {
+
+/* .icons { */
 
 /* width: 30px; */
 /* background-color: blueviolet; */
 
+/* } */
+.dev{
+    font-size: 20px;
+    margin-left: 70px;
 }
 .main{
-width: 250%;
+width: 100%;
 background-color: rgb(129, 134, 129);
-height: 400px;
+height: 200px;
 /* color: white; */
 }
 nav{
-    width: 250%;
+   height: 50px;
 }
+.body{
+width: 100%;
+
+}
+
 .sub{
     color: white;
+    font-size: 10px;
+    margin-left: -110px;
 }
 .com{
     color: white;
+    font-size: 15px;
+    margin-left: -110px;
 }
 .gallery img {
-    width: 1075px;
-    height: 470px;
+    width: 135px;
+    height: 70px;
 }
+.h1{
+    width: 190px;
+    margin-left: 250px;
+    
+}
+.h77{
+    font-size: 25px;
+    height: auto;
+    margin-left: 250px;
+}
+.h2{
+    width: 190px;
+    margin-left: 250px;
+}
+.h22{
+    font-size: 25px;
+    height: auto;
+    margin-left: 250px;
+}
+.h3{
+    width: 190px;
+    margin-left: 250px;
+}
+.h33{
+    font-size: 25px;
+    height: auto;
+    margin-left: 250px;
+}
+.h4{
+    width: 190px;
+    margin-left: 250px;
+}
+.h44{
+    font-size: 25px;
+    height: auto;
+    margin-left: 250px;
+}
+
+.heed{
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.logoo{
+    width: 120px;
+}
+
 footer{
-    width: 250%;
+    /* width: 250%; */
     background-color: rgb(230, 213, 213);
 }
 .lo{
-    color:blue;
+    /* color:blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
-     Geneva, Verdana, sans-serif;
+     Geneva, Verdana, sans-serif; */
      
 
 }
