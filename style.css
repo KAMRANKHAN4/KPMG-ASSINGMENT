@@ -130,7 +130,7 @@ footer .col3 ul li{
 
 
 
-  @media (min-width:360px) and (max-width:470px) {
+  @media (max-width:470px) {
        .logo{
         
  }
@@ -150,11 +150,11 @@ footer .col3 ul li{
     height: 20px;
 }
 .people{
-    width: 20px;
+    width: 1px;
     height: 20px;
 }
 .world{
-    width: 20px;
+    width: 35px;
     height: 20px;
 }
 .dev{
@@ -186,11 +186,11 @@ width: 100%;
     margin-left: -70px;
 }
 .gallery img {
-    width: 145px;
+    width: 165px;
     height: 70px;
 }
 .h1{
-    width: 190px;
+    width: 220px;
     margin-left: 250px;
     
 }
@@ -201,7 +201,7 @@ width: 100%;
     
 }
 .h2{
-    width: 190px;
+    width: 220px;
     margin-left: 250px;
 }
 .h22{
@@ -210,7 +210,7 @@ width: 100%;
     margin-left: 250px;
 }
 .h3{
-    width: 190px;
+    width: 220px;
     margin-left: 250px;
 }
 .h33{
@@ -219,7 +219,7 @@ width: 100%;
     margin-left: 250px;
 }
 .h4{
-    width: 190px;
+    width: 220px;
     margin-left: 250px;
 }
 .h44{
@@ -237,7 +237,7 @@ width: 100%;
 
 }
 .logoo{
-    width: 120px;
+    width: 150px;
 }
 
 footer{
