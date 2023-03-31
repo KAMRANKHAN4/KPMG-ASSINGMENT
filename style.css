@@ -187,7 +187,7 @@ width: 100%;
 }
 .gallery img {
     width: 165px;
-    height: 70px;
+    /* height: 70px; */
 }
 .h1{
     width: 220px;
