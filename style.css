@@ -171,7 +171,9 @@ nav{
    height: 50px;
 }
 .body{
-width: 100%;}
+width: 100%;
+
+}
 
 .sub{
     color: white;
@@ -184,12 +186,11 @@ width: 100%;}
     margin-left: -70px;
 }
 .gallery img {
-    width: 155px;
+    width: 165px;
     height: 70px;
 }
 .h1{
-    width: 470px;
-    height: 300px;
+    width: 220px;
     margin-left: 250px;
     
 }
@@ -200,8 +201,7 @@ width: 100%;}
     
 }
 .h2{
-    height: 300px;
-    width: 470px;
+    width: 220px;
     margin-left: 250px;
 }
 .h22{
@@ -210,8 +210,7 @@ width: 100%;}
     margin-left: 250px;
 }
 .h3{
-    height:300px ;
-    width: 470px;
+    width: 220px;
     margin-left: 250px;
 }
 .h33{
@@ -219,8 +218,8 @@ width: 100%;}
     height: auto;
     margin-left: 250px;
 }
-.h4{height: 300px;
-    width: 470px;
+.h4{
+    width: 280px;
     margin-left: 250px;
 }
 .h44{
