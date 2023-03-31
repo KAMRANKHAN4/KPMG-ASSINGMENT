@@ -191,6 +191,7 @@ width: 100%;
 }
 .h1{
     width: 490px;
+    height: 300px;
     margin-left: 250px;
     
 }
@@ -201,6 +202,7 @@ width: 100%;
     
 }
 .h2{
+    height: 300px;
     width: 490px;
     margin-left: 250px;
 }
@@ -210,6 +212,7 @@ width: 100%;
     margin-left: 250px;
 }
 .h3{
+    height:300px ;
     width: 490px;
     margin-left: 250px;
 }
@@ -218,7 +221,7 @@ width: 100%;
     height: auto;
     margin-left: 250px;
 }
-.h4{
+.h4{height: 300px;
     width: 490px;
     margin-left: 250px;
 }
