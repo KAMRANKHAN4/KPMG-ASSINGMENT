@@ -4,7 +4,7 @@
 }
 
 /* NAVBAR STARTS HERE */
-body{
+body {
     background-color: aqua;
 }
 
@@ -16,19 +16,24 @@ nav {
     height: 80px;
     /* width: 250%; */
 }
-.dev{
-    margin-left: 40%;  
+
+.dev {
+    margin-left: 40%;
     color: rgb(255, 116, 2);
 }
-.lor{
+
+.lor {
     margin-left: 30%;
 }
+
 .logo {
     width: 120px;
 }
-.com{
-color: rgb(255, 255, 0);
+
+.com {
+    color: rgb(255, 255, 0);
 }
+
 .nav_links {
     display: flex;
     align-items: center;
@@ -53,10 +58,12 @@ color: rgb(255, 255, 0);
     font-variant: small-caps;
     font-size: 20px;
 }
-.nav_links ul li{
+
+.nav_links ul li {
     padding: 10px;
 
 }
+
 .icons {
     display: flex;
     align-items: center;
@@ -82,8 +89,8 @@ color: rgb(255, 255, 0);
 /* GALLERY STRATS HERE */
 
 .gallery img {
-    width: 670px;
-    height: 470px;
+    width: 841px;
+    height: 504px;
 }
 
 /* FOOTER STARTS HERE */
@@ -96,11 +103,11 @@ footer {
     padding: 10px 30px;
 }
 
-footer .col1{
+footer .col1 {
     width: 350px;
 }
 
-footer .col2 ul li{
+footer .col2 ul li {
     list-style: none;
     gap: 40px;
     font-style: italic;
@@ -108,7 +115,8 @@ footer .col2 ul li{
     font-variant: small-caps;
     font-size: 20px;
 }
-footer .col3 ul li{
+
+footer .col3 ul li {
     list-style: none;
     gap: 40px;
     font-style: italic;
@@ -116,10 +124,12 @@ footer .col3 ul li{
     font-variant: small-caps;
     font-size: 20px;
 }
-.heed img{
+
+.heed img {
     display: flex;
 }
-.heed{
+
+.heed {
     display: flex;
     gap: 30px;
 }
@@ -130,139 +140,164 @@ footer .col3 ul li{
 
 
 
-  @media (max-width:470px) {
-       .logo{
+@media (max-width:470px) {
+    .logo {
         margin-left: -45px;
- }
- nav{
-    width: 100%;
-    height: 300px;
- }
- .nav_links ul {
-   
-    display: inline;
-    margin-left: -50px;
-   
-}
-.icons {
-    display: inline;
-    margin-left: -140px;
-    
-}
- .ul{
-    /* width: 100%; */
-    margin-left: -20px;
- }
-.main-content{
-    width: 100px;
-}
-.women{
-    width: 100px;
-    margin-left: -170px;
-}
-.search{
-    width: 20px;
-    height: 20px;
-}
-.people{
-    width: 1px;
-    height: 20px;
-}
-.world{
-    width: 35px;
-    height: 20px;
-}
-.dev{
-    font-size: 20px;
-    margin-left: 70px;
-    margin-top: 450px;
-}
-.main{
-width: 100%;
-background-color: rgb(129, 134, 129);
-height: 200px;
-/* color: white; */
-}
-/* nav{
+    }
+
+    nav {
+        width: 100%;
+        height: 300px;
+    }
+
+    .nav_links ul {
+
+        display: inline;
+        margin-left: -50px;
+
+    }
+
+    .icons {
+        display: inline;
+        margin-left: -140px;
+
+    }
+
+    .ul {
+        /* width: 100%; */
+        margin-left: -20px;
+    }
+
+    .main-content {
+        width: 100px;
+    }
+
+    .women {
+        width: 100px;
+        margin-left: -170px;
+    }
+
+    .search {
+        width: 20px;
+        height: 20px;
+    }
+
+    .people {
+        width: 20px;
+        height: 20px;
+    }
+
+    .world {
+        width: 35px;
+        height: 20px;
+    }
+
+    .dev {
+        font-size: 20px;
+        margin-left: 70px;
+        margin-top: 450px;
+    }
+
+    .main {
+        width: 100%;
+        background-color: rgb(129, 134, 129);
+        height: 200px;
+        /* color: white; */
+    }
+
+    /* nav{
    height: 50px;
 } */
-.body{
-width: 100%;
+    .body {
+        width: 100%;
 
-}
-.nav_links{
-    display: inline;
-    margin-left: -190px;
-}
+    }
 
-.sub{
-    color: white;
-    font-size: 10px;
-    margin-left: -70px;
-}
-.com{
-    color: white;
-    font-size: 15px;
-    margin-left: -70px;
-}
-.gallery{
-    width: 100%;
-    height: 200px;
-}
-.gallery img {
-    width: 100%;
-    height: 150px;
-}
-.h1{
-    width: 360px;
-    /* margin-left: 150px; */
-    
-}
-.h77{
-    font-size: 25px;
-    height: auto;
-    /* margin-left: 250px; */
-    
-}
-.h2{
-    width: 360px;
-    /* margin-left: 150px; */
-}
-.h22{
-    font-size: 25px;
-    height: auto;
-    /* margin-left: 250px; */
-}
-.h3{
-    width: 360px;
-    /* margin-left: 150px; */
-}
-.h33{
-    font-size: 25px;
-    height: auto;
-    /* margin-left: 250px; */
-}
-.h4{
-    width: 360px;
-    /* margin-left: 150px; */
-}
-.h44{
-    font-size: 25px;
-    height: auto;
-    /* margin-left: 250px; */
-}
+    .nav_links {
+        display: inline;
+        margin-left: -190px;
+    }
 
-.heed{
-    width: 100%;
-    display: flex;
-    /* align-items: center; */
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: -20px;
-    margin-top: 10px;
+    .sub {
+        color: white;
+        font-size: 10px;
+        margin-left: -70px;
+    }
 
-}
-/* .head1{
+    .com {
+        color: white;
+        font-size: 15px;
+        margin-left: -70px;
+    }
+
+    .gallery {
+        width: 100%;
+        height: 200px;
+    }
+
+    .gallery img {
+        width: 100%;
+        height: 150px;
+    }
+
+    .h1 {
+        width: 360px;
+        /* margin-left: 150px; */
+
+    }
+
+    .h77 {
+        font-size: 25px;
+        height: auto;
+        /* margin-left: 250px; */
+
+    }
+
+    .h2 {
+        width: 360px;
+        /* margin-left: 150px; */
+    }
+
+    .h22 {
+        font-size: 25px;
+        height: auto;
+        /* margin-left: 250px; */
+    }
+
+    .h3 {
+        width: 360px;
+        /* margin-left: 150px; */
+    }
+
+    .h33 {
+        font-size: 25px;
+        height: auto;
+        /* margin-left: 250px; */
+    }
+
+    .h4 {
+        width: 360px;
+        /* margin-left: 150px; */
+    }
+
+    .h44 {
+        font-size: 25px;
+        height: auto;
+        /* margin-left: 250px; */
+    }
+
+    .heed {
+        width: 100%;
+        display: flex;
+        /* align-items: center; */
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: -20px;
+        margin-top: 10px;
+
+    }
+
+    /* .head1{
     margin-left: 150px;
 }
 .head2{
@@ -274,25 +309,26 @@ width: 100%;
 .head4{
     margin-left: 150px;
 } */
-.logoo{
-    width: 150px;
-}
-
-footer{
-    /* width: 250%; */
-    background-color: rgb(230, 213, 213);
-}
-.foot1{
-    margin-left: 20px;
-
-}
-.lo{
-margin-top:260px ;
-margin-left:-90px ;
-}
-
-
-
-        
+    .logoo {
+        width: 150px;
     }
-    
+
+    footer {
+        /* width: 250%; */
+        background-color: rgb(230, 213, 213);
+    }
+
+    .foot1 {
+        margin-left: 20px;
+
+    }
+
+    .lo {
+        margin-top: 260px;
+        margin-left: -90px;
+    }
+
+
+
+
+}
